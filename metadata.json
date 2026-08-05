@@ -1,0 +1,6 @@
+{
+  "name": "AdBazaar",
+  "description": "Professional Business & Product Advertisement Application for India with multi-language support, role-based vendor ad publishing, ₹201 membership fee verification, and admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
